@@ -1,0 +1,345 @@
+Unnamed: 0,Car Name,Auction Rating,Mileage,Fuel Type,Engine Capacity,Transmission,Engine Unit,Price (PKR)
+0,Bmw 7 Series 5Th (F01) Generation 2013 Activehybrid 7L For Sale,8.7,52000,Hybrid,3000.0,Automatic,Cc,9500000.0
+1,Bmw X5  2012 Xdrive50I For Sale,8.0,102148,Petrol,4400.0,Automatic,Cc,16000000.0
+2,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,48000,Hybrid,2000.0,Automatic,Cc,34500000.0
+3,Bmw 2 Series  2021 218I Gran Coupe For Sale,9.3,68064,Petrol,1500.0,Manual,Cc,13500000.0
+4,Bmw X1  2017 Sdrive18I A/T For Sale,8.6,138928,Petrol,1500.0,Automatic,Cc,8200000.0
+5,Bmw X1  2017 Sdrive18I A/T For Sale,8.9,32877,Petrol,1500.0,Automatic,Cc,8200000.0
+6,Bmw X5  2008 Xdrive30D For Sale,6.5,129697,Diesel,3000.0,Automatic,Cc,5000000.0
+7,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3000,Electric,105.0,Automatic,Kwh,9500000.0
+8,Bmw X5  2017 Xdrive40E For Sale,8.1,83047,Hybrid,2000.0,Automatic,Cc,14000000.0
+9,Bmw 7 Series 4Th (E65) Generation 2002 735I For Sale,6.7,149268,Petrol,3600.0,Automatic,Cc,4000000.0
+10,Bmw X5  2022 Xdrive45E For Sale,8.7,54000,Phev,3000.0,Automatic,Cc,43500000.0
+11,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,18000,Electric,810.0,Automatic,Kwh,24900000.000000004
+12,Bmw 7 Series 5Th (F01) Generation 2010 750Li For Sale,8.7,97000,Petrol,4400.0,Automatic,Cc,9650000.0
+13,Bmw 5 Series 6Th (F10) Generation 2013 520I For Sale,8.7,62000,Petrol,2000.0,Automatic,Cc,9700000.0
+14,Bmw X5  2012 Xdrive50I For Sale,8.7,71200,Petrol,4400.0,Automatic,Cc,17900000.0
+15,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,120000,Petrol,1500.0,Automatic,Cc,6200000.0
+16,Bmw X1  2017 Sdrive18I M/T For Sale,8.7,750000,Petrol,1500.0,Manual,Cc,6399000.0
+17,Bmw 7 Series 5Th (F01) Generation 2010 730D For Sale,8.7,132000,Diesel,3000.0,Automatic,Cc,10100000.0
+18,Bmw 3 Series 4Th (E46) Generation 2006 320I For Sale,8.7,150000,Petrol,2000.0,Automatic,Cc,3295000.0000000005
+19,Bmw 7 Series 5Th (F01) Generation 2009 730D For Sale,8.7,105000,Diesel,3000.0,Automatic,Cc,8500000.0
+20,Bmw 3 Series 4Th (E46) Generation 2003 320I For Sale,8.7,58000,Petrol,2000.0,Automatic,Cc,3250000.0
+21,Bmw 7 Series  2006  For Sale,8.7,96000,Petrol,4000.0,Automatic,Cc,4800000.0
+22,Bmw 3 Series  1996  For Sale,8.7,200000,Petrol,1800.0,Manual,Cc,2100000.0
+23,Bmw I4  2022 Edrive40 For Sale,8.7,41500,Electric,84.0,Automatic,Kwh,20900000.0
+24,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,89293,Petrol,1500.0,Automatic,Cc,7200000.0
+25,Bmw 7 Series 5Th (F01) Generation 2010 730D For Sale,8.7,132000,Diesel,3000.0,Automatic,Cc,10100000.0
+26,Bmw 3 Series 4Th (E46) Generation 2006 320I For Sale,8.7,150000,Petrol,2000.0,Automatic,Cc,3295000.0000000005
+27,Bmw 7 Series 5Th (F01) Generation 2009 730D For Sale,8.7,105000,Diesel,3000.0,Automatic,Cc,8500000.0
+28,Bmw I4  2022 Edrive40 For Sale,8.7,41500,Electric,84.0,Automatic,Kwh,20900000.0
+29,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,89293,Petrol,1500.0,Automatic,Cc,7200000.0
+30,Bmw 5 Series 5Th (E60) Generation 2006 525I For Sale,8.0,89383,Petrol,2500.0,Automatic,Cc,4000000.0
+31,Bmw 3 Series  2018 318I For Sale,8.3,109245,Petrol,1600.0,Automatic,Cc,9000000.0
+32,Bmw X1  2018 Sdrive18I A/T For Sale,8.7,150000,Petrol,1500.0,Automatic,Cc,9300000.0
+33,Bmw X3  2008  For Sale,7.3,93048,Petrol,2500.0,Automatic,Cc,4000000.0
+34,Bmw 2 Series  2020 218I Gran Coupe For Sale,9.3,25441,Petrol,1500.0,Manual,Cc,15000000.0
+35,Bmw 7 Series  2014 750I For Sale,8.7,48000,Petrol,4400.0,Automatic,Cc,9500000.0
+36,Bmw X1  2017 Sdrive18I A/T For Sale,9.1,30005,Petrol,1500.0,Automatic,Cc,9000000.0
+37,Bmw 5 Series 5Th (E60) Generation 2004 525I For Sale,8.7,150000,Petrol,2500.0,Automatic,Cc,2800000.0
+38,Bmw 7 Series 5Th (F01) Generation 2009 740I For Sale,8.7,84000,Petrol,3000.0,Automatic,Cc,8450000.0
+39,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,125000,Petrol,1500.0,Automatic,Cc,7500000.0
+40,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,130000,Petrol,1500.0,Automatic,Cc,5600000.0
+41,Bmw 3 Series 4Th (E46) Generation 2000 316I For Sale,8.7,155000,Petrol,1800.0,Manual,Cc,2200000.0
+42,Bmw I4  2026 Edrive35 For Sale,8.7,1500,Electric,67.0,Automatic,Kwh,25500000.0
+43,Bmw X5  2014  For Sale,7.6,83980,Diesel,2000.0,Automatic,Cc,16000000.0
+44,Bmw 7 Series 4Th (E65) Generation 2004 745Li For Sale,8.7,174580,Petrol,4400.0,Automatic,Cc,3500000.0
+45,Bmw 3 Series  2013 316I For Sale,8.7,69000,Petrol,1600.0,Automatic,Cc,9900000.0
+46,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,150000,Petrol,1500.0,Automatic,Cc,9500000.0
+47,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,6100,Electric,81.0,Automatic,Kwh,25000000.0
+48,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,4000,Electric,8120.0,Automatic,Kwh,30000000.0
+49,Bmw 3 Series 4Th (E46) Generation 2000 316I For Sale,8.7,155000,Petrol,1800.0,Manual,Cc,2100000.0
+50,Bmw I5  2023 Edrive40 For Sale,8.7,6000,Electric,81.0,Automatic,Kwh,25300000.0
+51,Bmw Ix  2022 Xdrive40 For Sale,9.7,24936,Electric,710.0,Automatic,Kwh,27500000.0
+52,Bmw 7 Series 4Th (E65) Generation 2007 745I For Sale,8.7,69000,Petrol,4400.0,Automatic,Cc,4450000.0
+53,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,86493,Petrol,1500.0,Automatic,Cc,6900000.0
+54,Bmw 3 Series  2015 316I For Sale,8.7,92000,Petrol,1600.0,Automatic,Cc,7250000.0
+55,Bmw I4  2026 Edrive35 For Sale,8.7,1500,Electric,67.0,Automatic,Kwh,25500000.0
+56,Bmw X5  2014  For Sale,7.6,83980,Diesel,2000.0,Automatic,Cc,16000000.0
+57,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,150000,Petrol,1500.0,Automatic,Cc,9500000.0
+58,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,4000,Electric,8120.0,Automatic,Kwh,30000000.0
+59,Bmw I5  2023 Edrive40 For Sale,8.7,6000,Electric,81.0,Automatic,Kwh,25300000.0
+60,Bmw Ix  2022 Xdrive40 For Sale,9.7,24936,Electric,710.0,Automatic,Kwh,27500000.0
+61,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,86493,Petrol,1500.0,Automatic,Cc,6900000.0
+62,Bmw 3 Series  2015 316I For Sale,8.7,92000,Petrol,1600.0,Automatic,Cc,7250000.0
+63,Bmw 7 Series 4Th (E65) Generation 2005 750I For Sale,8.7,125000,Petrol,4800.0,Automatic,Cc,3650000.0
+64,Bmw 7 Series  2004 745Li For Sale,8.7,290790,Petrol,4500.0,Automatic,Cc,5200000.0
+65,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3399,Electric,105.7,Automatic,Kwh,62500000.0
+66,Bmw I4  2025 Edrive35 For Sale,8.7,3300,Electric,67.0,Automatic,Kwh,24500000.0
+67,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,60000,Petrol,1500.0,Automatic,Cc,6900000.0
+68,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,150000,Petrol,1500.0,Automatic,Cc,6375000.0
+69,Bmw 7 Series 5Th (F01) Generation 2013 Activehybrid 7L For Sale,8.7,87000,Hybrid,3000.0,Automatic,Cc,17000000.0
+70,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3400,Electric,1057.0,Automatic,Kwh,62500000.0
+71,Bmw 5 Series  2016  For Sale,8.7,56000,Diesel,2000.0,Automatic,Cc,15000000.0
+72,Bmw 7 Series 4Th (E65) Generation 2003 730I For Sale,8.7,110000,Petrol,3000.0,Automatic,Cc,5000000.0
+73,Bmw X5  2005 4.4I For Sale,8.7,138000,Petrol,4400.0,Automatic,Cc,5800000.0
+74,Bmw I4  2022 Edrive40 For Sale,8.7,26000,Electric,84.0,Automatic,Kwh,20800000.0
+75,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,45000,Hybrid,2000.0,Automatic,Cc,9500000.0
+76,Bmw 3 Series  1997 318I For Sale,8.7,90000,Petrol,1800.0,Automatic,Cc,2100000.0
+77,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,144000,Petrol,3000.0,Automatic,Cc,3990000.0
+78,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,140000,Petrol,3000.0,Automatic,Cc,4300000.0
+79,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,62000,Petrol,1500.0,Automatic,Cc,6250000.0
+80,Bmw 5 Series 6Th (F10) Generation 2012 Activehybrid 5 For Sale,8.7,75000,Hybrid,3000.0,Automatic,Cc,10500000.0
+81,Bmw 7 Series 4Th (E65) Generation 2007 730D For Sale,8.7,125000,Diesel,3000.0,Automatic,Cc,6500000.0
+82,Bmw 7 Series 5Th (F01) Generation 2015 730Li For Sale,8.7,47000,Petrol,3000.0,Automatic,Cc,23500000.0
+83,Bmw I4  2022 Edrive40 For Sale,9.8,29326,Electric,84.0,Automatic,Kwh,21500000.0
+84,Bmw I4  2022 Edrive40 For Sale,8.7,12300,Electric,84.0,Automatic,Kwh,26200000.0
+85,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,9540,Electric,81.2,Automatic,Kwh,27700000.0
+86,Bmw Ix  2023 Xdrive40 For Sale,8.7,15000,Electric,710.0,Automatic,Kwh,9500000.0
+87,Bmw I4  2022 Edrive40 For Sale,8.7,18000,Electric,84.0,Automatic,Kwh,9500000.0
+88,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,150000,Petrol,1500.0,Automatic,Cc,6375000.0
+89,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3400,Electric,1057.0,Automatic,Kwh,62500000.0
+90,Bmw 5 Series  2016  For Sale,8.7,56000,Diesel,2000.0,Automatic,Cc,15000000.0
+91,Bmw X5  2005 4.4I For Sale,8.7,138000,Petrol,4400.0,Automatic,Cc,5800000.0
+92,Bmw I4  2022 Edrive40 For Sale,8.7,26000,Electric,84.0,Automatic,Kwh,20800000.0
+93,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,45000,Hybrid,2000.0,Automatic,Cc,9500000.0
+94,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,144000,Petrol,3000.0,Automatic,Cc,3990000.0
+95,Bmw 5 Series 6Th (F10) Generation 2012 Activehybrid 5 For Sale,8.7,75000,Hybrid,3000.0,Automatic,Cc,10500000.0
+96,Bmw 7 Series 4Th (E65) Generation 2007 730D For Sale,8.7,125000,Diesel,3000.0,Automatic,Cc,6500000.0
+97,Bmw I4  2022 Edrive40 For Sale,8.7,12300,Electric,84.0,Automatic,Kwh,26200000.0
+98,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,9540,Electric,81.2,Automatic,Kwh,27700000.0
+99,Bmw Ix  2023 Xdrive40 For Sale,8.7,15000,Electric,710.0,Automatic,Kwh,9500000.0
+100,Bmw I8  2018 Roadster For Sale,8.7,16000,Hybrid,1500.0,Automatic,Cc,9500000.0
+101,Bmw Ix3  2022 M Sport For Sale,8.7,23000,Electric,738.0,Automatic,Kwh,9500000.0
+102,Bmw Ix  2022 Xdrive40 For Sale,8.7,35000,Electric,71.0,Automatic,Kwh,25900000.0
+103,Bmw 7 Series  2021 745Le Xdrive For Sale,8.7,80000,Hybrid,3000.0,Automatic,Cc,67500000.0
+104,Bmw X5  2013 Xdrive50I For Sale,8.7,100000,Petrol,4400.0,Automatic,Cc,9500000.0
+105,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,15000,Electric,81.0,Automatic,Kwh,9500000.0
+106,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,12000,Electric,81.0,Automatic,Kwh,32000000.0
+107,Bmw 7 Series 4Th (E65) Generation 2003 735I For Sale,8.7,87000,Petrol,3600.0,Automatic,Cc,3200000.0
+108,Bmw 7 Series  2004 735I For Sale,8.7,78000,Petrol,3600.0,Automatic,Cc,4500000.0
+109,Bmw I5  2023 M60 Xdrive For Sale,8.7,11000,Electric,81.0,Automatic,Kwh,45500000.0
+110,Bmw X5  2006 4.4I For Sale,8.7,117000,Petrol,4400.0,Automatic,Cc,5000000.0
+111,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,5000,Electric,105.0,Automatic,Kwh,56000000.0
+112,Bmw X5  2001 3.0I For Sale,8.7,600000,Petrol,3000.0,Automatic,Cc,3400000.0
+113,Bmw 7 Series 4Th (E65) Generation 2004 735I For Sale,7.4,208325,Petrol,3600.0,Automatic,Cc,4800000.0
+114,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,5500,Electric,1057.0,Automatic,Kwh,60000000.0
+115,Bmw 5 Series 5Th (E60) Generation 2004 530D For Sale,8.7,240000,Diesel,3000.0,Automatic,Cc,3600000.0
+116,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,117000,Petrol,3000.0,Automatic,Cc,4100000.0
+117,Bmw 7 Series  2023 I7 Xdrive60 M Pro Package For Sale,8.7,25000,Electric,102.0,Automatic,Kwh,62500000.0
+118,Bmw 7 Series 4Th (E65) Generation 2003 730I For Sale,8.7,93760,Petrol,3000.0,Automatic,Cc,3450000.0
+119,Bmw 3 Series 5Th (E90) Generation 2005 318I For Sale,8.7,122000,Petrol,2000.0,Automatic,Cc,5500000.0
+120,Bmw 3 Series 5Th (E90) Generation 2006 320I For Sale,8.7,198000,Petrol,2000.0,Automatic,Cc,3550000.0
+121,Bmw X5  2007 Xdrive30D For Sale,8.7,192000,Diesel,3000.0,Automatic,Cc,5500000.0
+122,Bmw Ix3  2022 M Sport For Sale,8.7,27000,Electric,73.0,Automatic,Kwh,9500000.0
+123,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,50000,Petrol,1500.0,Automatic,Cc,7600000.0
+124,Bmw 5 Series 5Th (E60) Generation 2005 523I For Sale,8.7,200000,Petrol,2500.0,Automatic,Cc,4000000.0
+125,Bmw I8  2018 Roadster For Sale,8.7,16000,Hybrid,1500.0,Automatic,Cc,9500000.0
+126,Bmw Ix3  2022 M Sport For Sale,8.7,23000,Electric,738.0,Automatic,Kwh,9500000.0
+127,Bmw 7 Series  2021 745Le Xdrive For Sale,8.7,80000,Hybrid,3000.0,Automatic,Cc,67500000.0
+128,Bmw X5  2013 Xdrive50I For Sale,8.7,100000,Petrol,4400.0,Automatic,Cc,9500000.0
+129,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,15000,Electric,81.0,Automatic,Kwh,9500000.0
+130,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,12000,Electric,81.0,Automatic,Kwh,32000000.0
+131,Bmw 7 Series  2004 735I For Sale,8.7,78000,Petrol,3600.0,Automatic,Cc,4500000.0
+132,Bmw 7 Series 4Th (E65) Generation 2004 735I For Sale,7.4,208325,Petrol,3600.0,Automatic,Cc,4800000.0
+133,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,5500,Electric,1057.0,Automatic,Kwh,60000000.0
+134,Bmw 7 Series  2023 I7 Xdrive60 M Pro Package For Sale,8.7,25000,Electric,102.0,Automatic,Kwh,62500000.0
+135,Bmw X5  2007 Xdrive30D For Sale,8.7,192000,Diesel,3000.0,Automatic,Cc,5500000.0
+136,Bmw Ix3  2022 M Sport For Sale,8.7,27000,Electric,73.0,Automatic,Kwh,9500000.0
+137,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,8000,Electric,105.0,Automatic,Kwh,9500000.0
+138,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,170000,Petrol,3000.0,Automatic,Cc,4200000.0
+139,Bmw 3 Series  1992  For Sale,8.7,155000,Petrol,2500.0,Manual,Cc,2000000.0
+140,Bmw 3 Series  2015 316I For Sale,8.7,59000,Petrol,1600.0,Automatic,Cc,8375000.0
+141,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,19000,Electric,81.0,Automatic,Kwh,32400000.000000004
+142,Bmw 5 Series 5Th (E60) Generation 2010 550I For Sale,8.7,145000,Petrol,4800.0,Automatic,Cc,9000000.0
+143,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,200000,Petrol,3000.0,Automatic,Cc,4200000.0
+144,Bmw Ix  2022 Xdrive40 For Sale,8.7,5000,Electric,71.0,Automatic,Kwh,26500000.0
+145,Bmw 2 Series  2022 218I Gran Coupe For Sale,8.7,12000,Petrol,1500.0,Automatic,Cc,9500000.0
+146,Bmw 7 Series  2025 I7 Xdrive50 M Sport For Sale,8.7,300,Electric,101.0,Automatic,Kwh,67500000.0
+147,Bmw Ix  2022 Xdrive40 For Sale,8.7,5000,Electric,71.0,Automatic,Kwh,26500000.0
+148,Bmw X1  2017 Sdrive18I M/T For Sale,8.7,112000,Petrol,1500.0,Manual,Cc,7500000.0
+149,Bmw X5  2010  For Sale,8.7,100000,Petrol,2500.0,Automatic,Cc,9000000.0
+150,Bmw 3 Series  2014 316I For Sale,8.7,68000,Petrol,1600.0,Automatic,Cc,8150000.0
+151,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,6000,Electric,105.0,Automatic,Kwh,9500000.0
+152,Bmw X5  2003 3.0I For Sale,8.7,96000,Petrol,3000.0,Automatic,Cc,3100000.0
+153,Bmw 7 Series  2024 I7 Xdrive60 M Sports For Sale,8.7,8700,Electric,105.0,Automatic,Kwh,69900000.0
+154,Bmw Ix  2021 Xdrive50 For Sale,8.7,32000,Electric,111.0,Automatic,Kwh,25500000.0
+155,Bmw I4  2022 Edrive40 For Sale,8.7,25000,Electric,84.0,Automatic,Kwh,18800000.0
+156,Bmw 5 Series 5Th (E60) Generation 2009 525I For Sale,8.7,95000,Petrol,2500.0,Automatic,Cc,4950000.0
+157,Bmw 5 Series 5Th (E60) Generation 2005 530I For Sale,8.7,200000,Petrol,3000.0,Automatic,Cc,3400000.0
+158,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,48000,Petrol,1500.0,Automatic,Cc,9500000.0
+159,Bmw 7 Series  2016 740 Le Xdrive For Sale,8.7,120000,Phev,2000.0,Automatic,Cc,35000000.0
+160,Bmw Ix  2022 Xdrive40 For Sale,9.6,13096,Electric,71.0,Automatic,Kwh,29000000.0
+161,Bmw I4  2025 Edrive35 For Sale,8.7,1700,Electric,67.0,Automatic,Kwh,30000000.0
+162,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,8000,Electric,105.0,Automatic,Kwh,9500000.0
+163,Bmw 5 Series 5Th (E60) Generation 2010 550I For Sale,8.7,145000,Petrol,4800.0,Automatic,Cc,9000000.0
+164,Bmw Ix  2022 Xdrive40 For Sale,8.7,5000,Electric,71.0,Automatic,Kwh,26500000.0
+165,Bmw 2 Series  2022 218I Gran Coupe For Sale,8.7,12000,Petrol,1500.0,Automatic,Cc,9500000.0
+166,Bmw Ix  2022 Xdrive40 For Sale,8.7,5000,Electric,71.0,Automatic,Kwh,26500000.0
+167,Bmw X1  2017 Sdrive18I M/T For Sale,8.7,112000,Petrol,1500.0,Manual,Cc,7500000.0
+168,Bmw 3 Series  2014 316I For Sale,8.7,68000,Petrol,1600.0,Automatic,Cc,8150000.0
+169,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,6000,Electric,105.0,Automatic,Kwh,9500000.0
+170,Bmw 7 Series  2024 I7 Xdrive60 M Sports For Sale,8.7,8700,Electric,105.0,Automatic,Kwh,69900000.0
+171,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,48000,Petrol,1500.0,Automatic,Cc,9500000.0
+172,Bmw 7 Series  2016 740 Le Xdrive For Sale,8.7,120000,Phev,2000.0,Automatic,Cc,35000000.0
+173,Bmw Ix  2022 Xdrive40 For Sale,9.6,13096,Electric,71.0,Automatic,Kwh,29000000.0
+174,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,24000,Electric,1050.0,Automatic,Kwh,9500000.0
+175,Bmw 7 Series 4Th (E65) Generation 2003 730D For Sale,8.7,250000,Diesel,3000.0,Automatic,Cc,3150000.0
+176,Bmw 5 Series 5Th (E60) Generation 2008 550I For Sale,8.7,160000,Petrol,4800.0,Automatic,Cc,5500000.0
+177,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,20000,Electric,105.0,Automatic,Kwh,9500000.0
+178,Bmw 3 Series  2015 316I For Sale,8.7,154000,Petrol,1600.0,Automatic,Cc,7500000.0
+179,Bmw X5  2004 4.4I For Sale,8.7,151000,Petrol,4400.0,Automatic,Cc,3800000.0
+180,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,30000,Electric,105.0,Automatic,Kwh,59900000.0
+181,Bmw 5 Series 5Th (E60) Generation 2007 525D For Sale,8.7,250000,Diesel,2500.0,Manual,Cc,3800000.0
+182,Bmw X3  2009  For Sale,8.7,137000,Petrol,2500.0,Automatic,Cc,4675000.0
+183,Bmw 7 Series  2025 I7 Edrive50 For Sale,8.7,26900,Electric,101.0,Automatic,Kwh,64000000.0
+184,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,18000,Electric,105.0,Automatic,Kwh,9500000.0
+185,Bmw 7 Series  2023 I7 Xdrive60 Excellence For Sale,8.7,12500,Electric,105.0,Automatic,Kwh,9500000.0
+186,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,24000,Electric,81.0,Automatic,Kwh,9500000.0
+187,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,11000,Electric,81.0,Automatic,Kwh,9500000.0
+188,Bmw 5 Series 5Th (E60) Generation 2005 550I For Sale,8.7,120000,Petrol,4800.0,Automatic,Cc,6000000.0
+189,Bmw 3 Series 4Th (E46) Generation 2006 320I For Sale,8.7,160000,Petrol,2000.0,Automatic,Cc,3600000.0
+190,Bmw 3 Series  1993  For Sale,8.7,130000,Petrol,2500.0,Manual,Cc,2950000.0
+191,Bmw I4  2023 Edrive40 For Sale,8.7,32000,Electric,84.0,Automatic,Kwh,25000000.0
+192,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,7000,Electric,105.0,Automatic,Kwh,9500000.0
+193,Bmw 5 Series 6Th (F10) Generation 2015 Activehybrid 5 For Sale,8.7,94000,Hybrid,3000.0,Automatic,Cc,12500000.0
+194,Bmw 5 Series 5Th (E60) Generation 2010 523I For Sale,8.7,4500,Petrol,2500.0,Automatic,Cc,8000000.0
+195,Bmw I4  2025 Edrive35 For Sale,8.7,6800,Electric,670.0,Automatic,Kwh,22800000.0
+196,Bmw 3 Series  1997  For Sale,8.7,141000,Petrol,3000.0,Automatic,Cc,3000000.0
+197,Bmw 5 Series 5Th (E60) Generation 2005 530I For Sale,8.7,167000,Petrol,3000.0,Automatic,Cc,4500000.0
+198,Bmw 5 Series 5Th (E60) Generation 2007 525D For Sale,8.7,150000,Diesel,2500.0,Automatic,Cc,3600000.0
+199,Bmw I4  2025 Edrive35 For Sale,8.7,1700,Electric,67.0,Automatic,Kwh,30000000.0
+200,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,24000,Electric,1050.0,Automatic,Kwh,9500000.0
+201,Bmw 5 Series 5Th (E60) Generation 2008 550I For Sale,8.7,160000,Petrol,4800.0,Automatic,Cc,5500000.0
+202,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,20000,Electric,105.0,Automatic,Kwh,9500000.0
+203,Bmw 3 Series  2015 316I For Sale,8.7,154000,Petrol,1600.0,Automatic,Cc,7500000.0
+204,Bmw X5  2004 4.4I For Sale,8.7,151000,Petrol,4400.0,Automatic,Cc,3800000.0
+205,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,30000,Electric,105.0,Automatic,Kwh,59900000.0
+206,Bmw 5 Series 5Th (E60) Generation 2005 550I For Sale,8.7,120000,Petrol,4800.0,Automatic,Cc,6000000.0
+207,Bmw I8  2015 Coupe For Sale,8.7,33400,Hybrid,1500.0,Automatic,Cc,26000000.0
+208,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,10000,Petrol,1500.0,Automatic,Cc,9500000.0
+209,Bmw I4  2023 Edrive35 For Sale,8.7,6000,Electric,67.0,Automatic,Kwh,18500000.0
+210,Bmw 7 Series 5Th (F01) Generation 2013 750Li For Sale,8.7,150000,Petrol,4400.0,Automatic,Cc,13500000.0
+211,Bmw 7 Series 4Th (E65) Generation 2002 745Li For Sale,8.7,130000,Petrol,4400.0,Automatic,Cc,6500000.0
+212,Bmw X5  2005 4.4I For Sale,8.7,138000,Petrol,4400.0,Automatic,Cc,6500000.0
+213,Bmw 6 Series  2005  For Sale,8.7,115000,Petrol,4500.0,Automatic,Cc,7500000.0
+214,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,7000,Electric,105.0,Automatic,Kwh,9500000.0
+215,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,80000,Petrol,1500.0,Automatic,Cc,8350000.0
+216,Bmw 5 Series 5Th (E60) Generation 2007 525D For Sale,8.7,200000,Diesel,2500.0,Automatic,Cc,3750000.0
+217,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,19000,Electric,81.2,Automatic,Kwh,32900000.0
+218,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,115000,Petrol,1500.0,Automatic,Cc,7500000.0
+219,Bmw I4  2023 Edrive40 For Sale,8.7,35500,Electric,84.0,Automatic,Kwh,20800000.0
+220,Bmw M Series  2006  For Sale,8.7,68000,Petrol,5000.0,Automatic,Cc,11500000.0
+221,Bmw 7 Series 4Th (E65) Generation 2008 730Li For Sale,8.7,102000,Petrol,3000.0,Automatic,Cc,4700000.0
+222,Bmw 3 Series 4Th (E46) Generation 2001 318I For Sale,8.7,200000,Petrol,2000.0,Automatic,Cc,2450000.0
+223,Bmw 5 Series 5Th (E60) Generation 2012 520D For Sale,8.9,140000,Diesel,2000.0,Automatic,Cc,11700000.0
+224,Bmw 7 Series 4Th (E65) Generation 2002 735I For Sale,8.7,135000,Petrol,3600.0,Automatic,Cc,3300000.0
+225,Bmw X1  2018 Sdrive18I A/T For Sale,8.7,65000,Petrol,1500.0,Automatic,Cc,7200000.0
+226,Bmw 3 Series 4Th (E46) Generation 2017 318I For Sale,8.7,86000,Petrol,2000.0,Automatic,Cc,11500000.0
+227,Bmw 7 Series 4Th (E65) Generation 2007 730I For Sale,8.7,70850,Petrol,3000.0,Automatic,Cc,4200000.0
+228,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,140000,Petrol,3000.0,Automatic,Cc,3800000.0
+229,Bmw Ix3  2021 M Sport For Sale,8.7,18900,Electric,1500.0,Automatic,Kwh,16800000.0
+230,Bmw 7 Series  2016 750 Li For Sale,8.7,69000,Petrol,4400.0,Automatic,Cc,37500000.0
+231,Bmw 7 Series  2023 I7 Xdrive60 Excellence For Sale,8.7,8000,Electric,1050.0,Automatic,Kwh,9500000.0
+232,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,7000,Electric,105.0,Automatic,Kwh,9500000.0
+233,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,80000,Petrol,1500.0,Automatic,Cc,8350000.0
+234,Bmw I5  2024 Edrive40 M Sport For Sale,8.7,19000,Electric,81.2,Automatic,Kwh,32900000.0
+235,Bmw M Series  2006  For Sale,8.7,68000,Petrol,5000.0,Automatic,Cc,11500000.0
+236,Bmw 5 Series 5Th (E60) Generation 2012 520D For Sale,8.9,140000,Diesel,2000.0,Automatic,Cc,11700000.0
+237,Bmw X1  2018 Sdrive18I A/T For Sale,8.7,65000,Petrol,1500.0,Automatic,Cc,7200000.0
+238,Bmw 3 Series 4Th (E46) Generation 2017 318I For Sale,8.7,86000,Petrol,2000.0,Automatic,Cc,11500000.0
+239,Bmw 7 Series  2016 750 Li For Sale,8.7,69000,Petrol,4400.0,Automatic,Cc,37500000.0
+240,Bmw 7 Series  2023 I7 Xdrive60 Excellence For Sale,8.7,8000,Electric,1050.0,Automatic,Kwh,9500000.0
+241,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,5000,Electric,105.0,Automatic,Kwh,65000000.0
+242,Bmw Ix  2022 Xdrive40 For Sale,8.7,12000,Electric,71.0,Automatic,Kwh,9500000.0
+243,Bmw X7  2022 Xdrive40I For Sale,8.7,60000,Petrol,3000.0,Automatic,Cc,64000000.0
+244,Bmw 5 Series  2014 528I For Sale,8.7,67000,Petrol,2000.0,Automatic,Cc,9500000.0
+245,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,12000,Electric,1057.0,Automatic,Kwh,59900000.0
+246,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,4000,Electric,105.0,Automatic,Kwh,63300000.0
+247,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,33000,Electric,105.0,Automatic,Kwh,60000000.0
+248,Bmw X5  2002 3.0I For Sale,8.7,185000,Petrol,3000.0,Automatic,Cc,4325000.0
+249,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,80000,Petrol,1500.0,Automatic,Cc,7000000.0
+250,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,3000,Electric,105.7,Automatic,Kwh,63500000.0
+251,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,19800,Electric,81.0,Automatic,Kwh,32000000.0
+252,Bmw Ix3  2021 M Sport For Sale,8.7,9500,Electric,73.0,Automatic,Kwh,21200000.0
+253,Bmw 7 Series 5Th (F01) Generation 2011 750Li For Sale,8.7,108000,Petrol,4400.0,Automatic,Cc,16500000.0
+254,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,55000,Petrol,1500.0,Automatic,Cc,7200000.0
+255,Bmw 7 Series 4Th (E65) Generation 2003 745Li For Sale,8.7,100000,Petrol,4400.0,Automatic,Cc,3450000.0
+256,Bmw 5 Series 5Th (E60) Generation 2003 530I For Sale,8.7,170000,Petrol,3000.0,Automatic,Cc,4480000.0
+257,Bmw Ix3  2021 M Sport For Sale,8.7,34000,Electric,80.0,Automatic,Kwh,20000000.0
+258,Bmw Ix3  2021 M Sport For Sale,8.7,28000,Electric,80.0,Automatic,Kwh,18100000.0
+259,Bmw 7 Series  2024 I7 Xdrive50 M Sport For Sale,8.7,9000,Electric,101.7,Automatic,Kwh,64900000.0
+260,Bmw X1  2021 Sdrive18I A/T For Sale,8.7,45000,Petrol,1500.0,Automatic,Cc,11399999.999999998
+261,Bmw 3 Series  1997  For Sale,8.7,210000,Petrol,1600.0,Automatic,Cc,2100000.0
+262,Bmw 7 Series 4Th (E65) Generation 2006 745Li For Sale,8.7,219000,Petrol,4400.0,Automatic,Cc,4250000.0
+263,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3000,Electric,105.0,Automatic,Kwh,9500000.0
+264,Bmw 5 Series 5Th (E60) Generation 2003 530I For Sale,8.7,200000,Petrol,3000.0,Automatic,Cc,4700000.0
+265,Bmw I5  2025 Edrive40 M Sport For Sale,8.7,10000,Electric,81.0,Automatic,Kwh,45000000.0
+266,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,12000,Electric,1057.0,Automatic,Kwh,59900000.0
+267,Bmw 7 Series  2022 I7 Xdrive60 M Sports For Sale,8.7,4000,Electric,105.0,Automatic,Kwh,63300000.0
+268,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,33000,Electric,105.0,Automatic,Kwh,60000000.0
+269,Bmw I5  2023 Edrive40 M Sport For Sale,8.7,19800,Electric,81.0,Automatic,Kwh,32000000.0
+270,Bmw Ix3  2021 M Sport For Sale,8.7,28000,Electric,80.0,Automatic,Kwh,18100000.0
+271,Bmw 7 Series  2024 I7 Xdrive50 M Sport For Sale,8.7,9000,Electric,101.7,Automatic,Kwh,64900000.0
+272,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,3000,Electric,105.0,Automatic,Kwh,9500000.0
+273,Bmw I5  2025 Edrive40 M Sport For Sale,8.7,10000,Electric,81.0,Automatic,Kwh,45000000.0
+274,Bmw 2 Series  2021 218I Gran Coupe For Sale,8.7,18000,Petrol,1500.0,Automatic,Cc,14000000.0
+275,Bmw 7 Series  2019 740 Le Xdrive For Sale,8.7,38000,Hybrid,2000.0,Automatic,Cc,9500000.0
+276,Bmw X5  2014 Xdrive35D For Sale,8.7,109000,Diesel,3000.0,Automatic,Cc,13500000.0
+277,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,24000,Electric,105.0,Automatic,Kwh,57500000.0
+278,Bmw 5 Series 5Th (E60) Generation 2004 525I For Sale,8.7,221000,Petrol,2500.0,Automatic,Cc,3700000.0
+279,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,110000,Petrol,1500.0,Automatic,Cc,6900000.0
+280,Bmw 3 Series  2004  For Sale,8.7,123,Petrol,4300.0,Manual,Cc,3800000.0
+281,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,114000,Petrol,1500.0,Automatic,Cc,6700000.0
+282,Bmw 3 Series  1997  For Sale,8.7,80000,Petrol,1800.0,Automatic,Cc,2100000.0
+283,Bmw 3 Series  2004  For Sale,8.7,15000,Petrol,4000.0,Manual,Cc,4500000.0
+284,Bmw X1  2019 Sdrive18I A/T For Sale,8.7,146000,Petrol,1500.0,Automatic,Cc,7500000.0
+285,Bmw Ix  2022  For Sale,8.7,7747,Electric,71.0,Automatic,Kwh,33000000.0
+286,Bmw Ix  2022 Xdrive50 For Sale,8.7,7500,Electric,105.0,Automatic,Kwh,28500000.0
+287,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,29000,Petrol,1500.0,Automatic,Cc,8500000.0
+288,Bmw Ix  2022 Xdrive40 For Sale,8.7,7700,Electric,71.0,Automatic,Kwh,33000000.0
+289,Bmw I5  2025 Edrive40 For Sale,8.7,15,Electric,81.0,Automatic,Kwh,46500000.0
+290,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,62000,Hybrid,2000.0,Automatic,Cc,37500000.0
+291,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,5000,Electric,105.0,Automatic,Kwh,65000000.0
+292,Bmw 7 Series  2019 745Le Xdrive For Sale,8.7,35598,Hybrid,3000.0,Automatic,Cc,58500000.0
+293,Bmw X1  2018 Sdrive18I M/T For Sale,8.7,95000,Petrol,1500.0,Automatic,Cc,7900000.0
+294,Bmw Ix1  2023  For Sale,8.7,400,Electric,64.0,Automatic,Kwh,20000000.0
+295,Bmw 7 Series  2025 I7 M70 Xdrive For Sale,8.7,22000,Electric,101.0,Automatic,Kwh,73000000.0
+296,Bmw X1  2018 Sdrive18I A/T For Sale,8.7,84800,Petrol,1500.0,Automatic,Cc,9200000.0
+297,Bmw X5  2016 Xdrive35D For Sale,8.7,99000,Diesel,3000.0,Automatic,Cc,10200000.0
+298,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,16000,Electric,105.0,Automatic,Kwh,9500000.0
+299,Bmw Ix  2022  For Sale,8.7,7747,Electric,71.0,Automatic,Kwh,33000000.0
+300,Bmw Ix  2022 Xdrive50 For Sale,8.7,7500,Electric,105.0,Automatic,Kwh,28500000.0
+301,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,29000,Petrol,1500.0,Automatic,Cc,8500000.0
+302,Bmw Ix  2022 Xdrive40 For Sale,8.7,7700,Electric,71.0,Automatic,Kwh,33000000.0
+303,Bmw I5  2025 Edrive40 For Sale,8.7,15,Electric,81.0,Automatic,Kwh,46500000.0
+304,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,62000,Hybrid,2000.0,Automatic,Cc,37500000.0
+305,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,5000,Electric,105.0,Automatic,Kwh,65000000.0
+306,Bmw 7 Series  2019 745Le Xdrive For Sale,8.7,35598,Hybrid,3000.0,Automatic,Cc,58500000.0
+307,Bmw Ix1  2023  For Sale,8.7,400,Electric,64.0,Automatic,Kwh,20000000.0
+308,Bmw 7 Series  2025 I7 M70 Xdrive For Sale,8.7,22000,Electric,101.0,Automatic,Kwh,73000000.0
+309,Bmw 5 Series 5Th (E60) Generation 2004 530I For Sale,8.7,79000,Petrol,3000.0,Automatic,Cc,5000000.0
+310,Bmw 5 Series  2017 530E For Sale,8.7,17000,Hybrid,2000.0,Automatic,Cc,27500000.0
+311,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,27000,Petrol,1500.0,Automatic,Cc,7200000.0
+312,Bmw 7 Series  2022 I7 Xdrive60 Excellence For Sale,8.7,6000,Electric,101.7,Automatic,Kwh,60000000.0
+313,Bmw X5  2012 Xdrive50I For Sale,8.7,95000,Petrol,4400.0,Automatic,Cc,18000000.0
+314,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,154548,Petrol,1500.0,Automatic,Cc,6850000.0
+315,Bmw 7 Series  2018 740 Le Xdrive For Sale,8.7,30000,Hybrid,2000.0,Automatic,Cc,42000000.0
+316,Bmw 7 Series 5Th (F01) Generation 2013 Activehybrid 7L For Sale,8.7,105000,Hybrid,3000.0,Automatic,Cc,18000000.0
+317,Bmw 7 Series  2023 I7 Xdrive60 M Sports For Sale,8.7,800,Electric,105.0,Automatic,Kwh,56500000.0
+318,Bmw 7 Series  2005  For Sale,8.7,110000,Petrol,4000.0,Automatic,Cc,5400000.0
+319,Bmw 5 Series 5Th (E60) Generation 2005 530I For Sale,8.7,108500,Petrol,3000.0,Automatic,Cc,4000000.0
+320,Bmw X5  2021 Xdrive45E For Sale,8.7,76831,Phev,3000.0,Automatic,Cc,50000000.0
+321,Bmw X5  2005 4.4I For Sale,8.7,133000,Petrol,4400.0,Automatic,Cc,5850000.0
+322,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,103000,Petrol,1500.0,Automatic,Cc,7200000.0
+323,Bmw 7 Series 5Th (F01) Generation 2013 Activehybrid 7 For Sale,8.7,75000,Hybrid,3000.0,Automatic,Cc,17500000.0
+324,Bmw 5 Series 5Th (E60) Generation 2006 530I For Sale,8.7,190000,Petrol,3000.0,Automatic,Cc,4050000.0
+325,Bmw 3 Series 5Th (E90) Generation 2005 320I For Sale,8.7,2000,Petrol,2000.0,Automatic,Cc,4700000.0
+326,Bmw X3  2008  For Sale,8.7,92000,Petrol,2500.0,Automatic,Cc,4000000.0
+327,Bmw 5 Series 5Th (E60) Generation 2004 530I For Sale,8.7,53000,Petrol,3000.0,Automatic,Cc,7000000.0
+328,Bmw X1  2017 Sdrive18I A/T For Sale,8.7,123455,Petrol,1500.0,Automatic,Cc,6300000.0
+329,Bmw 5 Series 5Th (E60) Generation 2004 545I For Sale,8.7,220000,Petrol,4400.0,Automatic,Cc,5700000.0
+330,Bmw X1  2017  For Sale,8.7,120000,Petrol,1500.0,Automatic,Cc,6870000.0
+331,Bmw X5  2003 3.0I For Sale,8.7,250000,Petrol,3000.0,Automatic,Cc,3800000.0
+332,Bmw 7 Series  2005  For Sale,8.7,288000,Diesel,3000.0,Automatic,Cc,5000000.0
+333,Bmw 7 Series  2024 I7 Xdrive60 M Sports For Sale,8.7,6800,Electric,105.0,Automatic,Kwh,49500000.0
+334,Bmw 3 Series  2014 316I For Sale,8.7,36200,Petrol,1600.0,Automatic,Cc,9500000.0
+335,Bmw 3 Series  2016 318I For Sale,8.7,105000,Petrol,1600.0,Automatic,Cc,9450000.0
+336,Bmw M Series  2002  For Sale,8.7,182000,Petrol,3200.0,Manual,Cc,14500000.0
+337,Bmw 7 Series  2024 I7 Xdrive50 M Sport For Sale,8.7,7000,Electric,101.7,Automatic,Kwh,62000000.0
+338,Bmw 7 Series  2017 740 Le Xdrive For Sale,8.7,62000,Hybrid,2000.0,Automatic,Cc,38500000.0
+339,Bmw X5  2007 Xdrive30D For Sale,8.7,103000,Diesel,3000.0,Automatic,Cc,8475000.0
+340,Bmw Ix3  2022 M Sport For Sale,8.7,13500,Electric,73.0,Automatic,Kwh,20000000.0
+341,Bmw 3 Series  2013  For Sale,8.7,70000,Petrol,1600.0,Manual,Cc,8000000.0
+342,Bmw M5  2019  For Sale,8.7,59000,Petrol,4400.0,Automatic,Cc,45500000.0
+343,Bmw 3 Series  1996  For Sale,8.7,55000,Petrol,3000.0,Manual,Cc,1850000.0
